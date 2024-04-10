@@ -22,3 +22,7 @@ elif negative_count > positive_count and negative_count > neutral_count:
     print("Opinião negativa")
 else:
     print("Opinião neutra")
+
+
+
+# O sistema de classificação baseado apenas na contagem de palavras pode ser insuficiente para determinar a polaridade geral da opinião, pois as palavras positivas, negativas e neutras estão presentes em contextos contraditórios na mesma frase. 
