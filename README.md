@@ -1,5 +1,3 @@
-Claro! Aqui está um guia passo a passo para executar o código Python fornecido:
-
 ### Passo a passo para executar o código de classificação de opiniões:
 
 1. **Instalação do Python**: Certifique-se de ter o Python instalado em seu sistema. Você pode baixá-lo e instalá-lo a partir do site oficial do Python em [python.org](https://www.python.org/).
